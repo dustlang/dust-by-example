@@ -1,4 +1,4 @@
-# Rust By Example
+# Dust By Example
 
 [![Build Status][travis-badge]][travis-repo]
 
